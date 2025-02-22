@@ -3,7 +3,6 @@ create a simple calculator with help of javascript
 const calculator = document.createElement('div');
 calculator.className='calculator';
 document.body.appendChild(calculator);
-
 const display = document.createElement('input');
 display.type ='text';
 display.className ='calculator-display';
