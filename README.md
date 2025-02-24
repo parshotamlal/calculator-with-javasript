@@ -1,5 +1,3 @@
-# calculator-with-javasript
-create a simple calculator with help of javascript
 const calculator = document.createElement('div');
 calculator.className='calculator';
 document.body.appendChild(calculator);
